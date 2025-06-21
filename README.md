@@ -1,2 +1,2 @@
 # healthcare-risk-model
-Creating a logistic regression to determine and project healthcare risks using publicly available data 
+Creating a logistic regression model to determine and project healthcare risks using Python and Seaborn
